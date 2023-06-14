@@ -31,7 +31,7 @@ using an open source API to create a list of pokemons with their images
 
 
 ## Demo
-![](https://github.com/ngalinos95/iOS-Calculator/blob/main/calculator.gif)
+![](https://github.com/ngalinos95/Pokedex/blob/main/pokemon.gif)
 
 
 
